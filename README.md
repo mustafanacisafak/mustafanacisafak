@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hi there, I am Mustafa Naci.
 🔭 I’m currently studying Physics.<br>🌱 I’m currently learning Python
 
 
